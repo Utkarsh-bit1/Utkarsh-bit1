@@ -22,11 +22,7 @@ I am a passionate 1st-year Engineering student specializing in Electronics & Com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)(www.linkedin.com/in/utkarsh-kushwaha-6ba08a20b)
 
 
-![C](https://shields.io)
-![C++](https://shields.io)
-![Python](https://shields.io)
-![Xilinx Vivado](https://shields.io)
-
+/github/pipenv/locked/python-version/:user/:repo
 
 
 
