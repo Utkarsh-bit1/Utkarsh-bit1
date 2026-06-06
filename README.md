@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Utkarsh Kushwaha 👋
 
 I am a passionate 1st-year Engineering student specializing in Electronics & Communication Engineering. 
 
@@ -9,7 +9,7 @@ I am a passionate 1st-year Engineering student specializing in Electronics & Com
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Verilog HDL, C, Python 
-- **Tools & Software:** Xilinx Vivado / ModelSim, Git, GitHub
+- **Tools & Software:** Xilinx Vivado / ModelSim, EDA Playground, Git, GitHub
 
 ## 📁 Featured Project
 ### 💾 [8x8 Synchronous RAM Block]
@@ -22,7 +22,11 @@ I am a passionate 1st-year Engineering student specializing in Electronics & Com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)(www.linkedin.com/in/utkarsh-kushwaha-6ba08a20b)
 
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,Xilinx Vivado" />
+![C](https://shields.io)
+![C++](https://shields.io)
+![Python](https://shields.io)
+![Xilinx Vivado](https://shields.io)
+
 
 
 
